@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.60680a28.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.60680a28.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.3dbcb4f3.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.3dbcb4f3.js.map",
-    "static/js/2.ce2442e3.chunk.js": "/expo-gh-pages/static/js/2.ce2442e3.chunk.js",
-    "static/js/2.ce2442e3.chunk.js.map": "/expo-gh-pages/static/js/2.ce2442e3.chunk.js.map",
-    "fonts/MaterialCommunityIcons.ttf": "/expo-gh-pages/./fonts/MaterialCommunityIcons.ttf",
-    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
-    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
-    "favicon.ico": "/expo-gh-pages/favicon.ico",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.ce2442e3.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.ce2442e3.chunk.js.LICENSE.txt"
+    "app.js": "/fox_stock_page/static/js/app.60680a28.chunk.js",
+    "app.js.map": "/fox_stock_page/static/js/app.60680a28.chunk.js.map",
+    "runtime~app.js": "/fox_stock_page/static/js/runtime~app.e5f63433.js",
+    "runtime~app.js.map": "/fox_stock_page/static/js/runtime~app.e5f63433.js.map",
+    "static/js/2.ce2442e3.chunk.js": "/fox_stock_page/static/js/2.ce2442e3.chunk.js",
+    "static/js/2.ce2442e3.chunk.js.map": "/fox_stock_page/static/js/2.ce2442e3.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/fox_stock_page/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/fox_stock_page/favicon-16.png",
+    "favicon-32.png": "/fox_stock_page/favicon-32.png",
+    "favicon.ico": "/fox_stock_page/favicon.ico",
+    "index.html": "/fox_stock_page/index.html",
+    "manifest.json": "/fox_stock_page/manifest.json",
+    "serve.json": "/fox_stock_page/serve.json",
+    "static/js/2.ce2442e3.chunk.js.LICENSE.txt": "/fox_stock_page/static/js/2.ce2442e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.3dbcb4f3.js",
+    "static/js/runtime~app.e5f63433.js",
     "static/js/2.ce2442e3.chunk.js",
     "static/js/app.60680a28.chunk.js"
   ]
